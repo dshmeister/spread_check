@@ -1,0 +1,5 @@
+pyjwt[crypto]
+python-binance
+requests
+pytelegrambotapi
+keyboa
